@@ -20,7 +20,7 @@ repository was created with Julia v1.10.2).
 ### Get reproducibility repository
 Clone this reproducibility repository by executing
 ```shell
-git clone https://github.com/sloede/talk-2024-dlr-braunschweig-repro.git
+git clone https://github.com/trixi-framework/talk-2024-dlr-braunschweig-trends-dgsem.git
 ```
 
 ### Start Julia and run code
